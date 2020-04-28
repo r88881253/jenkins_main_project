@@ -1,0 +1,3 @@
+[submodule "jenkins_sub_module1"]
+	path = jenkins_sub_module1
+	url = https://github.com/r88881253/jenkins_sub_module1
